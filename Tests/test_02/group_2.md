@@ -51,7 +51,7 @@ true
 
 ***Примерен вход:***
 ```
-raaaaktaktaktakraaaaaktaktaktak	
+raaaaktaktaktakraaaaaktaktakatatakpokaji
 ```
 
 ***Примерен изход:***
