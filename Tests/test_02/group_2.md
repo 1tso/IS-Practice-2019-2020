@@ -51,10 +51,10 @@ true
 
 ***Примерен вход:***
 ```
-aegaeoppooaaa		
+raaaaktaktaktakraaaaaktaktaktak	
 ```
 
 ***Примерен изход:***
 ```
-6
+24
 ```
